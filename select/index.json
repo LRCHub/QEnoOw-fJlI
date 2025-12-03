@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "叶えたまえ",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T10:24:26.953506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "叶えたまえ",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/01_叶えたまえ_豊崎_愛生.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "叶えたまえ",
+      "artist": "豊崎愛生",
+      "has_synced": false,
+      "path": "select/02_叶えたまえ_豊崎愛生.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "叶えたまえ",
+      "artist": "Aki Toyosaki",
+      "has_synced": false,
+      "path": "select/03_叶えたまえ_Aki_Toyosaki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "叶えたまえ",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_叶えたまえ_豊崎_愛生.txt"
+    }
+  ]
+}
